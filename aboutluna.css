@@ -20,14 +20,14 @@ body{
     text-align: center;
     margin-left: 20px;
     margin-right: auto;
-    color:darkblue;
+    color:brown;
     float: left;
     font-family: arial;
     line-height: 1.6;
     
 }
 .m1 {
-   width: 40%;
+   width: 30%;
    height: 300px;
     border-radius: 30px;
    border:1px solid black; 
@@ -35,7 +35,7 @@ body{
    margin-left: auto;
    float: none;
    align-items: center;
-   
+   justify-content:center;
 }
 
 .a2{
@@ -55,11 +55,11 @@ body{
     
 }
 .m2{
-    width: 40%;
+    width: 30%;
     height: 300px;
     border-radius: 30px;
    border:1px solid black;
-    
+    justify-content:center;
     align-items: center;
    
 }
@@ -85,13 +85,14 @@ body{
    
 }
 .m3{
-    width: 40%;
+    width: 30%;
    height: 300px;
     border-radius: 30px;
     border:1px solid black;
    margin-right: 30px;
    margin-left: auto;
    float: none;
+    justify-content:center;
    align-items: center;
 }
 @media screen and (max-width: 768px) {
@@ -110,6 +111,7 @@ body{
   }
 
 }
+
 
 
 
