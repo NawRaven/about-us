@@ -27,8 +27,8 @@ body{
     
 }
 .m1 {
-   width: 30%;
-   height: 300px;
+   width: 40%;
+   height: 250px;
     border-radius: 30px;
    border:1px solid black; 
    margin-right: 30px;
@@ -55,8 +55,8 @@ body{
     
 }
 .m2{
-    width: 30%;
-    height: 300px;
+    width: 40%;
+    height: 250px;
     border-radius: 30px;
    border:1px solid black;
     justify-content:center;
@@ -85,8 +85,8 @@ body{
    
 }
 .m3{
-    width: 30%;
-   height: 300px;
+    width: 40%;
+   height: 250px;
     border-radius: 30px;
     border:1px solid black;
    margin-right: 30px;
@@ -111,6 +111,7 @@ body{
   }
 
 }
+
 
 
 
